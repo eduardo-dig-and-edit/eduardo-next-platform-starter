@@ -35,7 +35,7 @@ export default function Page() {
                 <h1 className="mb-0">Hola, mi nombre es Eduardo.</h1>
                 <p className="text-lg">Soy desarrollador, artista digital, consultor y un montón de otros Títulos impresionantes y palabras de moda.</p>
                 <Link
-                    href="https://docs.netlify.com/frameworks/next-js/overview/"
+                    href="https://raarr.vercel.app/"
                     className="btn btn-lg btn-primary sm:btn-wide"
                 >
                     Read the Docs
